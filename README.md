@@ -4,14 +4,8 @@
 
 
 # Clement (2021) 
-![alt text](https://i.ibb.co/NN3WR0W/Screenshot-from-2021-04-12-12-31-53.png)
 
-## Descripción del Proyecto:
-
-E-commerce de vinos, desarrollado en equipo con metodologías ágiles y sistema de tickets (Trello), en el contexto del *Coding Bootcamp Plataforma 5*.
-Duración 2 semanas | 08/03 - 19/03
-
-### Integrantes:
+### Equipo de Desarrollo:
 
 * Agustin Diaz Cano
 
@@ -24,6 +18,14 @@ Duración 2 semanas | 08/03 - 19/03
 * Max Sznaider
 
 * Salvador Perez
+
+## Descripción del Proyecto:
+
+E-commerce de vinos, desarrollado en equipo con metodologías ágiles y sistema de tickets (Trello), en el contexto del *Coding Bootcamp Plataforma 5*.
+
+**Duración 2 semanas | 08/03 - 19/03**
+
+![alt text](https://i.ibb.co/NN3WR0W/Screenshot-from-2021-04-12-12-31-53.png)
 
 ### Funcionalidades:
 
@@ -48,6 +50,6 @@ agregar productos y categorías.
 
 ### Instrucciones de uso:
 
-* npm i
+* `npm i`
 * En `/Back/seeders/seeders/`
     * Correr el comando : `npx sequelize-cli db:seed:all`
