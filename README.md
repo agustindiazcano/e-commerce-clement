@@ -3,11 +3,10 @@
 
 
 
-#Clement (2021)#
-
+# Clement (2021) 
 ![alt text](https://i.ibb.co/NN3WR0W/Screenshot-from-2021-04-12-12-31-53.png)
 
-##Descripción del Proyecto:
+## Descripción del Proyecto:
 
 E-commerce de vinos, desarrollado en equipo con metodologías ágiles y sistema de tickets (Trello), en el contexto del Coding Bootcamp Plataforma 5.
 Duración 2 semanas | 08/03 - 19/03
