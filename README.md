@@ -8,10 +8,10 @@
 
 ## Descripción del Proyecto:
 
-E-commerce de vinos, desarrollado en equipo con metodologías ágiles y sistema de tickets (Trello), en el contexto del Coding Bootcamp Plataforma 5.
+E-commerce de vinos, desarrollado en equipo con metodologías ágiles y sistema de tickets (Trello), en el contexto del *Coding Bootcamp Plataforma 5*.
 Duración 2 semanas | 08/03 - 19/03
 
-###Integrantes:
+### Integrantes:
 
 * Agustin Diaz Cano
 
@@ -25,7 +25,7 @@ Duración 2 semanas | 08/03 - 19/03
 
 * Salvador Perez
 
-###Funcionalidades:
+### Funcionalidades:
 
 * Búsqueda de productos.
 * Creación y logueo de usuarios.
@@ -36,7 +36,7 @@ Duración 2 semanas | 08/03 - 19/03
 * Panel de administración que permite hacer administrador a otros usuarios, modificar y 
 agregar productos y categorías.
 
-###Tecnologías:
+### Tecnologías:
 
 * React & Redux
 * JWT
@@ -46,8 +46,8 @@ agregar productos y categorías.
 * Node.js
 *CSS
 
-###Instrucciones de uso:
+### Instrucciones de uso:
 
 * npm i
-* En /Back/seeders/seeders/
-    * Correr el comando npx sequelize-cli db:seed:all
+* En `/Back/seeders/seeders/`
+    * Correr el comando : `npx sequelize-cli db:seed:all`
